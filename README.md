@@ -1,2 +1,1 @@
-# henry-curse
-este es un repositorio de prueba del modulo dos de henry
+esto es una prueba de como crear un repositorio y clonarlo desde git hub a mi escritorio
